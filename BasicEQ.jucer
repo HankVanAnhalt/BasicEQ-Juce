@@ -2,7 +2,8 @@
 
 <JUCERPROJECT id="ABlQ2d" name="BasicEQ" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
-              companyName="Maximilian Hanke" pluginFormats="buildVST3">
+              companyName="Maximilian Hanke" pluginFormats="buildStandalone,buildVST3"
+              cppLanguageStandard="latest">
   <MAINGROUP id="JJLWPz" name="BasicEQ">
     <GROUP id="{56F3FA40-85D2-BE4E-95F0-F6B6F0D619B3}" name="Source">
       <FILE id="TR7erU" name="PluginProcessor.cpp" compile="1" resource="0"
